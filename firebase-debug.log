@@ -1,0 +1,25 @@
+[debug] [2023-09-23T06:09:19.446Z] ----------------------------------------------------------------------
+[debug] [2023-09-23T06:09:19.451Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-23T06:09:19.452Z] CLI Version:   12.5.4
+[debug] [2023-09-23T06:09:19.452Z] Platform:      win32
+[debug] [2023-09-23T06:09:19.453Z] Node Version:  v18.15.0
+[debug] [2023-09-23T06:09:19.455Z] Time:          Sat Sep 23 2023 13:09:19 GMT+0700 (Western Indonesia Time)
+[debug] [2023-09-23T06:09:19.455Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-23T06:09:19.628Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-23T06:09:19.629Z] > authorizing via signed-in user (fanimu7@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Fani\Study Coding\Rakamin\VIX\live 1\vueapp-batchseptember
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
